@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "First", "First\First.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiModule", "MultiModule\MultiModule.vcxproj", "{EB655DBA-245F-4539-8335-9EA3433150E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part1", "Part1\Part1.vcxproj", "{E5A07B63-904E-4BAC-BE98-F61E06958753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{EB655DBA-245F-4539-8335-9EA3433150E5}.Debug|x64.Build.0 = Debug|x64
 		{EB655DBA-245F-4539-8335-9EA3433150E5}.Release|x64.ActiveCfg = Release|x64
 		{EB655DBA-245F-4539-8335-9EA3433150E5}.Release|x64.Build.0 = Release|x64
+		{E5A07B63-904E-4BAC-BE98-F61E06958753}.Debug|x64.ActiveCfg = Debug|x64
+		{E5A07B63-904E-4BAC-BE98-F61E06958753}.Debug|x64.Build.0 = Debug|x64
+		{E5A07B63-904E-4BAC-BE98-F61E06958753}.Release|x64.ActiveCfg = Release|x64
+		{E5A07B63-904E-4BAC-BE98-F61E06958753}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
