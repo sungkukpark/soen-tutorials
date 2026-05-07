@@ -9,11 +9,11 @@ int main()
 
 	pi = &i;
 	pd = &d;
-	printf("Á¤¼ö = %d\n", *pi);
-	printf("½Ç¼ö = %.2lf\n", *pd);
+	printf("ì •ìˆ˜ = %d\n", *pi);
+	printf("ì‹¤ìˆ˜ = %.2lf\n", *pd);
 
 	pi = (int*)&d;
-	printf("pi·Î ÀĞÀº d¹øÁöÀÇ °ª = %d\n", *pi);
+	printf("pië¡œ ì½ì€ dë²ˆì§€ì˜ ê°’ = %d\n", *pi);
 
 	return 0;
 }

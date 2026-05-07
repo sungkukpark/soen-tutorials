@@ -1,17 +1,17 @@
 #pragma warning(disable:4996)
 #include <stdio.h>
 
-int Max(int a, int b);	// Max ÇÔ¼öÀÇ Àü¹æ¼±¾ğ
+int Max(int a, int b);	// Max í•¨ìˆ˜ì˜ ì „ë°©ì„ ì–¸
 
 int main()
 {
 	int a, b, m;
 
-	printf("µÎ ¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ë‘ ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”: ");
 	scanf("%d %d", &a, &b);
 
 	m = Max(a, b);
-	printf("µÎ ¼ö Áß Å« °ªÀº %dÀÔ´Ï´Ù.\n", m);
+	printf("ë‘ ìˆ˜ ì¤‘ í° ê°’ì€ %dì…ë‹ˆë‹¤.\n", m);
 }
 
 int Max(int a, int b)

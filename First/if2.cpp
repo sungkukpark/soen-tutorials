@@ -7,8 +7,8 @@ int main()
 	
 	if (input == 7)
 	{
-		printf("%d¸¦ ÀÔ·ÂÇß½À´Ï´Ù.", input);
-		printf("Çà¿îÀÇ 7ÀÔ´Ï´Ù.");
+		printf("%dë¥¼ ì…ë ¥í–ˆìŠµë‹ˆë‹¤.", input);
+		printf("í–‰ìš´ì˜ 7ì…ë‹ˆë‹¤.");
 	}
 
 	return 0;

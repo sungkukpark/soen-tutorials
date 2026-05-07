@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <windows.h>
 
-// Ä¿¼­¸¦ x,y ÁÂÇ¥·Î ÀÌµ¿½ÃÅ²´Ù.
+// ì»¤ì„œë¥¼ x,y ì¢Œí‘œë¡œ ì´ë™ì‹œí‚¨ë‹¤.
 void gotoxy(int x, int y)
 {
 	COORD Cur;
@@ -14,7 +14,7 @@ int main()
 {
 	int i;
 
-	printf("¹®ÀÚ¿­À» Ãâ·ÂÇÒ À§Ä¡¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ë¬¸ìì—´ì„ ì¶œë ¥í•  ìœ„ì¹˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”: ");
 	scanf("%d", &i);
 
 	if (i == 1)

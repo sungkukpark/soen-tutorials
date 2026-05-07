@@ -9,7 +9,7 @@ int main()
 	int arLength = sizeof(arScore) / sizeof(arScore[0]);
 	for (i = 0; i < arLength; i++)
 	{
-		printf("%d¹ø ÇÐ»ýÀÇ ¼ºÀûÀ» ÀÔ·ÂÇÏ¼¼¿ä: ", i + 1);
+		printf("%dë²ˆ í•™ìƒì˜ ì„±ì ì„ ìž…ë ¥í•˜ì„¸ìš”: ", i + 1);
 		scanf("%d", &arScore[i]);
 	}
 
@@ -19,6 +19,6 @@ int main()
 		sum += arScore[i];
 	}
 
-	printf("\nÃÑÁ¡Àº %dÁ¡ÀÌ°í Æò±ÕÀº %dÁ¡ÀÔ´Ï´Ù.\n", sum, sum / arLength);
+	printf("\nì´ì ì€ %dì ì´ê³  í‰ê· ì€ %dì ìž…ë‹ˆë‹¤.\n", sum, sum / arLength);
 	return 0;
 }

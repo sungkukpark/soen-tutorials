@@ -5,8 +5,8 @@ int main()
 {
 	int speed;
 
-	printf("¼Óµµ¸¦ ÀÔ·ÂÇÏ¼¼¿ä (Km/h): ");
+	printf("ì†ë„ë¥¼ ì…ë ¥í•˜ì„¸ìš” (Km/h): ");
 	scanf_s("%d", &speed);
-	printf("ÀÌ ¼Óµµ´Â ¸¶ÇÏ %fÀÔ´Ï´Ù.\n", speed / MACH);
+	printf("ì´ ì†ë„ëŠ” ë§ˆí•˜ %fì…ë‹ˆë‹¤.\n", speed / MACH);
 	return 0;
 }

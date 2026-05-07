@@ -9,7 +9,7 @@ int main()
 	i = 5;
 	j = plus_one(i);
 
-	printf("i = %d, °á°ú=%d\n", i, j);
+	printf("i = %d, ê²°ê³¼=%d\n", i, j);
 	return 0;
 }
 

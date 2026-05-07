@@ -13,6 +13,6 @@ int main()
 
 	if (a == APPLE)
 	{
-		printf("%d: »ç°úÀÔ´Ï´Ù.\n", a);
+		printf("%d: ì‚¬ê³¼ìž…ë‹ˆë‹¤.\n", a);
 	}
 }

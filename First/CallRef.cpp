@@ -9,7 +9,7 @@ int main()
 	i = 5;
 	plus_ref(&i);
 
-	printf("°á°ú = %d\n", i);
+	printf("ê²°ê³¼ = %d\n", i);
 	return 0;
 }
 

@@ -9,5 +9,5 @@ int main()
 	pd = &num1;
 
 	num2 = *pd;
-	printf("Num2ÀÇ °ªÀº %fÀÔ´Ï´Ù.\n", num2);
+	printf("Num2ì˜ ê°’ì€ %fì…ë‹ˆë‹¤.\n", num2);
 }

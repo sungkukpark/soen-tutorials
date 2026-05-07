@@ -5,7 +5,7 @@ int main()
 {
 	int d;
 
-	printf("Á¤¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ì •ìˆ˜ë¥¼ ìž…ë ¥í•˜ì„¸ìš”: ");
 	scanf("%d", &d);
 	 
 	int i, sum;
@@ -16,5 +16,5 @@ int main()
 		sum = sum + i;
 	}
 
-	printf("ÇÕ°è: %d", sum);
+	printf("í•©ê³„: %d", sum);
 }

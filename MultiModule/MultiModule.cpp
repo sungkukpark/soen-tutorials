@@ -10,11 +10,11 @@ int main()
 	result = Power(a, b);
 	printf("%d", result);
 
-	//printf("µÎ ¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	//printf("ë‘ ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”: ");
 	//scanf_s("%d%d", &a, &b);
 
 	//result = Max(a, b);
-	//printf("µÎ ¼ö Áß Å« °ªÀº %dÀÔ´Ï´Ù.\n", max);
+	//printf("ë‘ ìˆ˜ ì¤‘ í° ê°’ì€ %dì…ë‹ˆë‹¤.\n", max);
 	
 	return 0;
 }

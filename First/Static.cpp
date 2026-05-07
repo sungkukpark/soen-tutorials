@@ -17,5 +17,5 @@ void PrintCount()
 	static int count = 0;
 
 	count++;
-	printf("Àú´Â %d¹øÂ°·Î È£ÃâµÇ¾ú½À´Ï´Ù.\n", count);
+	printf("ì €ëŠ” %dë²ˆì§¸ë¡œ í˜¸ì¶œë˜ì—ˆìŠµë‹ˆë‹¤.\n", count);
 }
